@@ -8,6 +8,18 @@ This project reflects my strong interest in **financial technology (FinTech), da
 
 Through this project, I explored how technology can empower individuals to better understand their financial health, plan future investments, and make informed financial decisions.
 
+## 🚀 Live Deployment
+
+The **Infosys Springboard 6.0 Wealth Management Platform** is deployed and accessible online.
+
+🌐 **Application URL**  
+https://infosys-springboard-6-0.onrender.com
+
+📘 **API Documentation (Swagger UI)**  
+https://infosys-springboard-6-0.onrender.com/docs
+
+This deployment demonstrates the full integration of the FastAPI backend and React frontend running in a cloud environment.
+
 ---
 
 ## 🎯 Project Objectives
